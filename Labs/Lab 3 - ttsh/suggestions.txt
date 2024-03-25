@@ -1,0 +1,15 @@
+/**
+ * Course: CSC 3210
+ * Section: 003
+ * Assignment: Teeny Tiny Shell
+ * Name: Hudson Arney
+ */
+
+ The only real suggestion I would give is noting in the 
+ lab instructions if using an IDE to run in local mode or 
+ in my case with using VSCode, use WSL. Maybe for other people
+ it was more intuitive to do this but I didn't realize it at 
+ first and had to talk with some friends about what to do. 
+
+ The final product was very satisfying to test out!
+ 

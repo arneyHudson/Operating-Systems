@@ -1,0 +1,1 @@
+This is my lab 1 text file. I am going to try to show this in the command prompt!

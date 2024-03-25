@@ -1,0 +1,57 @@
+Stack Contents:
+4	<-Top
+3
+2	<-Bottom
+
+Stack Contents:
+3	<-Top
+2	<-Bottom
+
+Stack Top: 3
+
+Stack is empty
+
+Stack Contents:
+3	<-Top
+2	<-Bottom
+
+Stack Contents:
+5	<-Top & Bottom
+
+Stack Contents:
+5	<-Top
+10	<-Bottom
+
+Stack Contents:
+-5	<-Top & Bottom
+
+Stack Contents:
+11	<-Top
+10	<-Bottom
+
+Stack Contents:
+110	<-Top & Bottom
+
+Stack Contents:
+2	<-Top
+10	<-Bottom
+
+Stack Contents:
+0	<-Top & Bottom
+
+Stack Contents:
+15	<-Top
+14
+13
+12
+11
+10	<-Bottom
+
+Stack Contents:
+14	<-Top
+13
+12
+11
+15
+10	<-Bottom
+

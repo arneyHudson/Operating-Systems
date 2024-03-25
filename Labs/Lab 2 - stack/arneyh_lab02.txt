@@ -1,0 +1,16 @@
+Hudson Arney
+CSC 3320 003 - Operating Systems
+Lab 2 - Stack Machine in C
+
+Suggestions:
+Maybe going through a bit more C in class or giving us more in class time 
+to work on this since it would've been helpful to talk to a mentor for parts. 
+I was still having trouble with the rotate command.
+
+What I Enjoyed:
+The fact that the lab was a bit simplier in scope than many other projects I'm working on.
+I liked trying to get each method to work one at a time and it felt satisfing to get the correct output.
+
+References:
+https://www.digitalocean.com/community/tutorials/stack-in-c 
+https://stackoverflow.com/questions/33907103/stack-push-pop-rotate
