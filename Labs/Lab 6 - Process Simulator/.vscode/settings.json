@@ -1,0 +1,10 @@
+{
+    "makefile.makefilePath": "makefile",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/arneyh/Operating Systems/Labs/Lab 6 - Process Simulator",
+            "binaryPath": "/home/arneyh/Operating Systems/Labs/Lab 6 - Process Simulator/main",
+            "binaryArgs": []
+        }
+    ]
+}

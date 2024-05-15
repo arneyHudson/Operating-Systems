@@ -1,0 +1,15 @@
+{
+    "makefile.makefilePath": "/home/arneyh/Operating Systems/Labs/Lab 7 - Memory Manager/Makefile",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/arneyh/Operating Systems/Labs/Lab 7 - Memory Manager",
+            "binaryPath": "/home/arneyh/Operating Systems/Labs/Lab 7 - Memory Manager/pthread_testmemmgr",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/arneyh/Operating Systems/Labs/Lab 7 - Memory Manager",
+            "binaryPath": "/home/arneyh/Operating Systems/Labs/Lab 7 - Memory Manager/pthread_testmemmgr.c",
+            "binaryArgs": []
+        }
+    ]
+}

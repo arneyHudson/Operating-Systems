@@ -1,0 +1,10 @@
+1 -- Available Memory: 100, Fragment Count: 1
+ptr1 is HELLO
+2 -- Available Memory: 90, Fragment Count: 1
+ptr2 is GOODBYE
+3 -- Available Memory: 45, Fragment Count: 1
+ptr3 - mymalloc_bf(50) failed
+4 -- Available Memory: 45, Fragment Count: 1
+5 -- Available Memory: 100, Fragment Count: 1
+Total successful mallocs: 2
+Segmentation fault
